@@ -11,12 +11,7 @@ import Link from 'next/link';
 // stateless component
 const Home = props => (
     <div>
-        <p>
-            Hey!
-        </p>
-        <Link href='/sell'>
-            <a>sell</a>
-        </Link>
+        <p>Hey!</p>
     </div>
 )
 
